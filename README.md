@@ -1,9 +1,8 @@
 #FLASK BANG
-===========
 
 The holy web hand grenade.
 
-__Requires:__ A Debian-based filesystem, Nginx
+__Requires:__  Nginx, setuptools
 
 
 FLASK-BANG, which is pronounced by yelling, is an easy way to deploy a production flask server.  It utilizes uWSGI and its own python environment _for safety_
